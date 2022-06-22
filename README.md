@@ -18,7 +18,7 @@ In order to launch the program you have to follow several steps:
 1. Fork the repo.
 2. Open your IDE and clone the repo from GitHub via IDE's command or through terminal.
 3. Open the terminal and find the folder where program is located (use `cd...` command to achieve it.
-4. Once you found the location of the program file write in terminal: `ruby puts.rb` to launch it.
+4. Once you found the location of the program file write in terminal: `ruby script.rb` to launch it.
 
 That's it, you will see the output of the script in terminal. 
 
