@@ -27,6 +27,3 @@ That's it, you will see the output of the script in terminal.
 
 If you want to change or add something you are free to do so.
 Pull requests are welcome. 
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
